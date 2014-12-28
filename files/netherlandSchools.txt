@@ -1,0 +1,461 @@
+CB	A. Roland Holst College	a. roland holst college	NL
+CB	Academie Artemis	academie artemis	NL
+28285831	Academie Minerva	academie minerva	NL
+CB	Accent College	accent college	NL
+CB	Adelbert College	adelbert college	NL
+CB	Agnieten College	agnieten college	NL
+CB	Agrarische Hogeschool	agrarische hogeschool	NL
+CB	Alberdingk Thijm College	alberdingk thijm college	NL
+CB	Aletta Jacobs College	aletta jacobs college	NL
+CB	Alfrink College	alfrink college	NL
+CB	Alkwin Kollege	alkwin kollege	NL
+CB	Almere college	almere college	NL
+M	Aloysius College	aloysius college	NL
+CB	Amstellyceum	amstellyceum	NL
+CB	Amstelveen College	amstelveen college	NL
+CB	Amsterdam International Community School	amsterdam international community school	NL
+CB	Amsterdam School of Real Estate	amsterdam school of real estate	NL
+M	Amsterdams Lyceum	amsterdams lyceum|het amsterdams lyceum	NL
+CB	Amsterdamse Hogeschool voor de Kunsten	amsterdamse hogeschool voor de kunsten	NL
+19875849	Anna van Rijn College	anna van rijn college	NL
+CB	AOC oost	aoc oost	NL
+CB	ArtEZ	artez	NL
+42310038	Ashram College	ashram college	NL
+CB	Assink Lyceum	assink lyceum	NL
+CB	Atrium	atrium	NL
+CB	Augustinianum	augustinianum	NL
+CB	Augustinus College	augustinus college	NL
+CB	Augustinus College Amsterdam	augustinus college amsterdam	NL
+CB	Avans Hogeschool	avans hogeschool	NL
+648454	Avans University of Applied Sciences	avans hogeschool|ba frankfurt|avans|avans university of applied sciences|avans university|avans hogescholen	NL
+CB	Barlaeus Gymnasium	barlaeus gymnasium	NL
+CB	Berlage Lyceum	berlage lyceum	NL
+M	Bernardinuscollege	bernardinuscollege|bernardinus college	NL
+CB	Bertrand Russell College	bertrand russell college	NL
+CB	Bisschoppelijk College Broekhin	bisschoppelijk college broekhin	NL
+CB	Bisschoppelijk College Echt	bisschoppelijk college echt	NL
+CB	Bisschoppelijk College Sittard	bisschoppelijk college sittard	NL
+CB	Blariacumcollege	blariacumcollege	NL
+CB	Bogerman College	bogerman college	NL
+CB	Bonhoeffer College	bonhoeffer college	NL
+CB	Bornego College	bornego college	NL
+CB	Bouwens van der Boije College	bouwens van der boije college	NL
+CB	BSN Nederland	bsn nederland	NL
+CB	CAH Dronten	cah dronten	NL
+CB	Calandlyceum	calandlyceum	NL
+CB	Calvijn College	calvijn college	NL
+CB	Calvijn met Junior College	calvijn met junior college	NL
+CB	Cambreur College	cambreur college	NL
+CB	Candea College	candea college	NL
+CB	Carbooncollege	carbooncollege	NL
+13019109	Caribbean Medical University	caribbean medical university	NL
+CB	Carmel College Salland	carmel college salland	NL
+CB	Carolus Borromeus College	carolus borromeus college	NL
+CB	Carolus Clusius College	carolus clusius college	NL
+CB	Cartesius Lyceum	cartesius lyceum	NL
+CB	Christelijk College De Populier	christelijk college de populier	NL
+CB	Christelijk Gymnasium Sorghvliet	christelijk gymnasium sorghvliet	NL
+CB	Christelijk Lyceum	christelijk lyceum	NL
+M	Christelijke Hogeschool Ede	christelijke hogeschool ede	NL
+CB	Christelijke Hogeschool Nederland	christelijke hogeschool nederland	NL
+CB	Christelijke Hogeschool Windesheim	christelijke hogeschool windesheim	NL
+CB	Christelijke Scholengemeenschap Buitenveldert	christelijke scholengemeenschap buitenveldert	NL
+CB	Christelijke Scholengemeenschap Walcheren	christelijke scholengemeenschap walcheren	NL
+CB	Codarts	codarts	NL
+CB	Coenecoop College Waddinxveen	coenecoop college waddinxveen	NL
+CB	College de Brink	college de brink	NL
+CB	College De Meer	college de meer	NL
+CB	College Den Hulster	college den hulster	NL
+CB	College Het Loo	college het loo	NL
+CB	College St. Paul	college st. paul	NL
+CB	Comenius College	comenius college	NL
+CB	Comenius Lyceum	comenius lyceum	NL
+CB	Coornhert Lyceum	coornhert lyceum	NL
+CB	Corbulo College	corbulo college	NL
+CB	Corderius College	corderius college	NL
+CB	CSG Calvijn	csg calvijn	NL
+CB	CSG Comenius	csg comenius	NL
+CB	CSG De Lage Waard	csg de lage waard	NL
+CB	CSG Dingstede	csg dingstede	NL
+CB	CSG Jan Arentsz	csg jan arentsz	NL
+CB	CSG Liudger	csg liudger	NL
+CB	CSG Ulbe van Houten	csg ulbe van houten	NL
+CB	CSG Willem de Zwijger	csg willem de zwijger	NL
+CB	CSG Willem van Oranje	csg willem van oranje	NL
+CB	Da Vinci College Leiden	da vinci college leiden	NL
+CB	DaCapo College	dacapo college	NL
+CB	Dalton Den Haag	dalton den haag	NL
+CB	Dalton Voorburg	dalton voorburg	NL
+CB	Damstede	damstede	NL
+CB	De Amsterdamse School	de amsterdamse school	NL
+CB	De Berkhoff	de berkhoff	NL
+CB	De Breul	de breul	NL
+CB	De Heemgaard	de heemgaard	NL
+CB	De Kampanje	de kampanje	NL
+CB	De Nieuwe School	de nieuwe school	NL
+CB	De Nieuwe Veste	de nieuwe veste	NL
+CB	De Wissel	de wissel	NL
+103244	Delft University of Technology	delft university of technology|polytechnical school|technical university delft|technische hogeschool delft|delft institute of technology|tu-delft|universiteit delft|technische universiteit delft|tu delft|delft technical university|technical university of delft|delft university	NL
+CB	Dendron College	dendron college	NL
+CB	Design Academy Eindhoven	design academy eindhoven	NL
+CB	DevelsteinCollege	develsteincollege	NL
+CB	Dockinga College	dockinga college	NL
+CB	Dominicus College	dominicus college	NL
+M	Don Bosco College	don bosco college	NL
+CB	Dongemond college	dongemond college	NL
+CB	D'Oultremontcollege	d'oultremontcollege	NL
+CB	Dr. Knippenbergcollege	dr. knippenbergcollege	NL
+CB	Dr. Mollercollege	dr. mollercollege	NL
+CB	Drachtster Lyceum	drachtster lyceum	NL
+CB	Ds. Pierson College	ds. pierson college	NL
+22404734	Duisenberg school of finance	duisenberg school of finance	NL
+CB	Edison College	edison college	NL
+CB	Edith Stein College	edith stein college	NL
+CB	Eemlandcollege	eemlandcollege	NL
+9706	Eindhoven University of Technology	eindhoven university|tu/e|tu eindhoven|technische universiteit eindhoven|technical university eindhoven|eindhoven university of technology|technische hogeschool eindhoven	NL
+CB	Elde College	elde college	NL
+CB	Elzendaalcollege	elzendaalcollege	NL
+CB	Emmauscollege	emmauscollege	NL
+CB	Erasmus College	erasmus college	NL
+CB	Erasmus Universiteit Rotterdam	erasmus universiteit rotterdam	NL
+1568097	Erasmus University Rotterdam	erasmus university rotterdam|erasmus universiteit rotterdam|erasmus university|erasmus universiteit|erasmus university of rotterdam|erasmus school of economics	NL
+CB	Erfgooiers college	erfgooiers college	NL
+CB	Etty Hillesum Lyceum	etty hillesum lyceum	NL
+CB	EuroCollege Hogeschool Rotterdam	eurocollege hogeschool rotterdam	NL
+CB	Europort Business School	europort business school	NL
+CB	Farel College	farel college	NL
+CB	Federatie BelastingAcademie	federatie belastingacademie	NL
+CB	Fioretti College	fioretti college	NL
+CB	Fivel College	fivel college	NL
+CB	Fons Vitae Lyceum	fons vitae lyceum	NL
+CB	Fontys Hogescholen	fontys hogescholen	NL
+7338348	Fontys University of Applied Sciences	fontys hogescholen|fontys|fontys university of applied sciences	NL
+CB	Friesland College	friesland college	NL
+CB	Geert Groote College	geert groote college	NL
+CB	Gemeentelijk Gymnasium	gemeentelijk gymnasium	NL
+CB	Gereformeerde Hogeschool	gereformeerde hogeschool	NL
+CB	Gereformeerde Scholengemeenschap Randstad	gereformeerde scholengemeenschap randstad	NL
+CB	Gerrit Rietveld Academie	gerrit rietveld academie	NL
+CB	Gerrit van der Veen College	gerrit van der veen college	NL
+CB	Gertrudis College	gertrudis college	NL
+CB	Gomarus College	gomarus college	NL
+CB	Goois Lyceum	goois lyceum	NL
+CB	Graaf Huyn College	graaf huyn college	NL
+CB	Griftland College	griftland college	NL
+CB	Groen van Prinsterercollege	groen van prinsterercollege	NL
+CB	Groenschool Helicon	groenschool helicon	NL
+CB	Gymnasium Apeldoorn	gymnasium apeldoorn	NL
+CB	Gymnasium Beekvliet	gymnasium beekvliet	NL
+CB	Gymnasium Bernrode	gymnasium bernrode	NL
+CB	Gymnasium Celeanum	gymnasium celeanum	NL
+CB	Gymnasium Felisenum	gymnasium felisenum	NL
+CB	Gymnasium Haganum	gymnasium haganum	NL
+CB	Haags Montessori Lyceum	haags montessori lyceum	NL
+CB	Haagsch Genootschap	haagsch genootschap	NL
+CB	Haagse Hogeschool	haagse hogeschool	NL
+CB	Haarlemmermeerlyceum	haarlemmermeerlyceum	NL
+19864119	HAN University of Applied Sciences	hogeschool van arnhem en nijmegen|han university of applied sciences	NL
+CB	Hanze College	hanze college	NL
+806063	Hanze University of Applied Sciences, Groningen	hanze university groningen|hanze university|hanzehogeschool|hanzehogeschool groningen	NL
+CB	Hanzehogeschool Groningen	hanzehogeschool groningen	NL
+CB	HAS Den Bosch	has den bosch	NL
+24375399	HAS University of Applied Sciences	has den bosch	NL
+CB	HBO Nederland	hbo nederland	NL
+CB	Helen Parkhurst	helen parkhurst	NL
+CB	Hendrik Pierson College	hendrik pierson college	NL
+CB	Herbert Vissers College	herbert vissers college	NL
+CB	Herlecollege	herlecollege	NL
+M	Hermann Wesselink College	hermann wesselink college	NL
+CB	Hervion College	hervion college	NL
+CB	Hervormd Lyceum West	hervormd lyceum west	NL
+CB	Hervormd Lyceum Zuid	hervormd lyceum zuid	NL
+CB	Het Baarnsch Lyceum	het baarnsch lyceum	NL
+CB	Het Baken	het baken	NL
+CB	Het Streek	het streek	NL
+CB	Het Westeraam	het westeraam	NL
+CB	HMDI	hmdi	NL
+CB	Hofstad Heldering	hofstad heldering	NL
+CB	Hofstad Lyceum	hofstad lyceum	NL
+CB	Hofstad Mavo	hofstad mavo	NL
+CB	Hogeschool Drenthe	hogeschool drenthe	NL
+CB	Hogeschool Helicon	hogeschool helicon	NL
+CB	Hogeschool Inholland	hogeschool inholland	NL
+CB	Hogeschool Leiden	hogeschool leiden	NL
+CB	Hogeschool NCOI	hogeschool ncoi	NL
+CB	Hogeschool Notenboom	hogeschool notenboom	NL
+CB	Hogeschool Praehep	hogeschool praehep	NL
+CB	Hogeschool Rotterdam	hogeschool rotterdam	NL
+CB	Hogeschool Schoevers	hogeschool schoevers	NL
+CB	Hogeschool Tio	hogeschool tio	NL
+CB	Hogeschool Utrecht	hogeschool utrecht	NL
+M	Hogeschool van Amsterdam	hogeschool van amsterdam|amsterdam university of applied sciences|hogeschool amsterdam	NL
+CB	Hogeschool van Arnhem en Nijmegen	hogeschool van arnhem en nijmegen	NL
+CB	Hogeschool Van Hall Larenstein	hogeschool van hall larenstein	NL
+CB	Hogeschool voor de Kunsten	hogeschool voor de kunsten	NL
+CB	Hogeschool voor de Kunsten Utrecht	hogeschool voor de kunsten utrecht	NL
+CB	Hogeschool Windesheim Flevoland	hogeschool windesheim flevoland	NL
+CB	Hogeschool Wittenborg	hogeschool wittenborg	NL
+CB	Hogeschool Zeeland	hogeschool zeeland	NL
+CB	Hogeschool Zuyd	hogeschool zuyd	NL
+CB	Hoofdvaart College	hoofdvaart college	NL
+CB	Hooghuis Lyceum	hooghuis lyceum	NL
+CB	Hotelschool Den Haag	hotelschool den haag	NL
+11757740	Hotelschool The Hague	hotelschool|hotelschool den haag|hotelschool the hague	NL
+CB	Hubertus Vakschool	hubertus vakschool	NL
+CB	Huygens College	huygens college	NL
+CB	Huygenslyceum	huygenslyceum	NL
+CB	Ichthus College	ichthus college	NL
+CB	INHOLLAND Select Studies	inholland select studies	NL
+CB	Instelling Voortgezet Onderwijs Deurne	instelling voortgezet onderwijs deurne	NL
+CB	InterCollege Business School	intercollege business school	NL
+CB	Intercultural Open University	intercultural open university	NL
+10496717	International Business School Groningen	international business school groningen	NL
+3596310	International Institute of Social Studies	international institute of social studies|institute of social studies	NL
+CB	Internationale Agrarische Hogeschool Larenstein	internationale agrarische hogeschool larenstein	NL
+CB	Iselinge Hogeschool	iselinge hogeschool	NL
+CB	Isendoorn College	isendoorn college	NL
+CB	Islamitische Universiteit Rotterdam	islamitische universiteit rotterdam	NL
+CB	ITV Hogeschool voor Tolken en Vertalen	itv hogeschool voor tolken en vertalen	NL
+CB	IVA Driebergen	iva driebergen	NL
+CB	IVKO	ivko	NL
+CB	Jac P Thijsse College	jac p thijsse college	NL
+CB	Jacob Roelandslyceum	jacob roelandslyceum	NL
+CB	Jan Tinbergen College	jan tinbergen college	NL
+CB	Jan van Brabant College	jan van brabant college	NL
+18756253	Jan Van Eyck Academie	jan van eyck academie	NL
+CB	Jeroen Boschcollege	jeroen boschcollege	NL
+CB	Johannes Fontanus College	johannes fontanus college	NL
+CB	Joodse Scholengemeenschap Maimonides	joodse scholengemeenschap maimonides	NL
+M	Junior College	junior college|intermediate college|juco|junior colleges|two-year college|associate's college|2-year college	NL
+CB	Kaj Munk College	kaj munk college	NL
+M	Kalsbeek College	kalsbeek college	NL
+CB	Karel de Grote College	karel de grote college	NL
+CB	Katholieke PABO Zwolle	katholieke pabo zwolle	NL
+CB	Katholieke Scholengemeenschap Etten-Leur	katholieke scholengemeenschap etten-leur	NL
+CB	Katholieke Scholengemeenschap Hoofddorp	katholieke scholengemeenschap hoofddorp	NL
+CB	Keizer Karel College	keizer karel college	NL
+CB	Kennemer Lyceum	kennemer lyceum	NL
+CB	Koning Willem II College	koning willem ii college	NL
+3047289	Koninklijke Militaire Academie	koninklijke militaire academie	NL
+CB	Koninklijke Scholengemeenschap	koninklijke scholengemeenschap	NL
+CB	Krimpenerwaard College	krimpenerwaard college	NL
+CB	Laar en Berg	laar en berg	NL
+CB	Lauwers College	lauwers college	NL
+86373	Leiden University	university of leyden|universiteit van leiden|rijksuniversiteit leiden|leyden university|universiteit leiden|university of leiden|leiden university	NL
+CB	Leidsche Rijn College	leidsche rijn college	NL
+CB	Liemers College	liemers college	NL
+CB	Lorentz Casimir Lyceum	lorentz casimir lyceum	NL
+CB	Lorentz Lyceum	lorentz lyceum	NL
+CB	Luzac College	luzac college	NL
+CB	Luzac Lyceum	luzac lyceum	NL
+CB	Lyceum Sancta Maria	lyceum sancta maria	NL
+CB	Lyceum Ypenburg	lyceum ypenburg	NL
+CB	Maartenscollege	maartenscollege	NL
+CB	Maaslandcollege	maaslandcollege	NL
+2357362	Maastricht Academy of Music	conservatorium maastricht	NL
+11502886	Maastricht Graduate School of Governance	maastricht graduate school of governance	NL
+7597825	Maastricht School of Management	maastricht school of management	NL
+542667	Maastricht University	university of limburg|rijksuniversiteit limburg|unimaas|maastricht university|universiteit maastricht|university of maastricht	NL
+CB	Maerlant College	maerlant college	NL
+CB	Maerlant Lyceum	maerlant lyceum	NL
+CB	Makeblijde College	makeblijde college	NL
+CB	Marcanti College	marcanti college	NL
+CB	Maritiem College Velsen	maritiem college velsen	NL
+CB	Markus Verbeek Business Academy	markus verbeek business academy	NL
+CB	Marnix College	marnix college	NL
+M	Martinus College	martinus college	NL
+CB	Maurick College	maurick college	NL
+CB	Mavo aan Zee	mavo aan zee	NL
+CB	Meander College	meander college	NL
+CB	Media Academie	media academie	NL
+CB	Mediacollege Amsterdam	mediacollege amsterdam	NL
+CB	Meergronden	meergronden	NL
+CB	Mendel College	mendel college	NL
+CB	Meridiaan College	meridiaan college	NL
+CB	Merletcollege	merletcollege	NL
+CB	Metameer	metameer	NL
+CB	Mill-Hillcollege	mill-hillcollege	NL
+39465587	Minkema College	minkema college	NL
+CB	Mollercollege Zuidwesthoek	mollercollege zuidwesthoek	NL
+CB	Mollerlyceum	mollerlyceum	NL
+CB	Monseigneur Frencken College	monseigneur frencken college	NL
+CB	Montaigne Lyceum	montaigne lyceum	NL
+CB	Montessori	montessori	NL
+CB	Montessori College Nijmegen	montessori college nijmegen	NL
+CB	Montessori College Oost	montessori college oost	NL
+CB	Montessori Lyceum	montessori lyceum	NL
+CB	MSM Maastricht School of Management	msm maastricht school of management	NL
+CB	Munnikenheide College	munnikenheide college	NL
+CB	Nederlandse School voor Onderwijsmanagement	nederlandse school voor onderwijsmanagement	NL
+M	Newman College	newman college	NL
+CB	NHL Hogeschool	nhl hogeschool	NL
+CB	NHTV	nhtv	NL
+24886174	NHTV Breda University of Applied Sciences	nhtv internationaal hoger onderwijs breda	NL
+CB	Niftarlake College	niftarlake college	NL
+CB	Norbertuscollege	norbertuscollege	NL
+CB	Northgo College	northgo college	NL
+CB	NOVA College Amsterdam	nova college amsterdam	NL
+CB	Nyenrode Business Universiteit	nyenrode business universiteit	NL
+CB	Olympus College	olympus college	NL
+CB	OMO Scholengroep Helmond	omo scholengroep helmond	NL
+CB	Oostvaarders College	oostvaarders college	NL
+CB	Open Schoolgemeenschap Bijlmer	open schoolgemeenschap bijlmer	NL
+CB	Open Universiteit	open universiteit	NL
+1046744	Open University in the Netherlands	open university of the netherlands|open universiteit nederland|open universiteit	NL
+CB	Openbaar Zeister Lyceum	openbaar zeister lyceum	NL
+CB	Oranje Nassau College	oranje nassau college	NL
+CB	OSG Echnaton	osg echnaton	NL
+CB	OSG Erasmus	osg erasmus	NL
+CB	OSG Sevenwolden	osg sevenwolden	NL
+CB	OSG Singelland	osg singelland	NL
+CB	Over Betuwe College	over betuwe college	NL
+CB	Over-Y College	over-y college	NL
+CB	Overbosch College	overbosch college	NL
+CB	Pallas Athene College	pallas athene college	NL
+CB	Panta Rhei	panta rhei	NL
+CB	Pantarijn	pantarijn	NL
+23544555	Pascal College	pascal college	NL
+CB	Pax Christi College	pax christi college	NL
+CB	Pedagogische Hogeschool De Kempel	pedagogische hogeschool de kempel	NL
+CB	Philips van Horne SG	philips van horne sg	NL
+24177551	Piet Zwart Institute	piet zwart institute	NL
+M	Pieter Nieuwland College	pieter nieuwland college	NL
+CB	Pieter Zandt scholengemeenschap	pieter zandt scholengemeenschap	NL
+CB	Pius X College	pius x college	NL
+CB	Pleincollege Eckart	pleincollege eckart	NL
+CB	Politieacademie	politieacademie	NL
+CB	Praedinius Gymnasium	praedinius gymnasium	NL
+CB	Prisma College	prisma college	NL
+CB	Raayland College	raayland college	NL
+CB	Radboud Universiteit Nijmegen	radboud universiteit nijmegen	NL
+956504	Radboud University Nijmegen	katholieke universiteit nijmegen|radboud university|university of nijmegen|katholieke universiteit te nijmegen|radboud university of nijmegen|catholic university of nijmegen|radboud universiteit nijmegen|radboud university nijmegen	NL
+CB	Reitdiep College	reitdiep college	NL
+CB	Reynaertcollege Hulst	reynaertcollege hulst	NL
+CB	Rijksuniversiteit Groningen	rijksuniversiteit groningen	NL
+CB	Rijswijks Lyceum	rijswijks lyceum	NL
+CB	Roosevelt Academy	roosevelt academy	NL
+CB	Rosa Beroepscollege	rosa beroepscollege	NL
+10755775	Rotterdam Business School	rotterdam business school	NL
+2251050	Rotterdam School of Management	rsm erasmus university|rotterdam school of management	NL
+CB	Rotterdamsch Lyceum	rotterdamsch lyceum	NL
+4367553	Royal Academy of Art, The Hague	kabk	NL
+261576	Royal Conservatory of The Hague	royal conservatory of the hague|royal conservatory in the hague	NL
+12419736	Royal Netherlands Naval College	koninklijk instituut voor de marine|royal netherlands naval college	NL
+CB	RSG Lingecollege	rsg lingecollege	NL
+CB	RSG Magister Alvinus	rsg magister alvinus	NL
+CB	RSG Simon Vestdijk	rsg simon vestdijk	NL
+CB	RSG Stad en Esch	rsg stad en esch	NL
+CB	RSG Steenwijk	rsg steenwijk	NL
+CB	Rythovius College	rythovius college	NL
+CB	Saba Comprehensive School	saba comprehensive school	NL
+CB	Sancta maria lyceum	sancta maria lyceum	NL
+CB	Sancta Maria Mavo	sancta maria mavo	NL
+CB	Saxion Hogescholen	saxion hogescholen	NL
+CB	Saxion Next	saxion next	NL
+CB	Scheldemond College	scheldemond college	NL
+CB	Scholengemeenschap Bonaire	scholengemeenschap bonaire	NL
+CB	Scholengemeenschap De Waerdenborch	scholengemeenschap de waerdenborch	NL
+CB	Scholengemeenschap Huizermaat	scholengemeenschap huizermaat	NL
+CB	Scholengemeenschap Lelystad	scholengemeenschap lelystad	NL
+CB	Scholengemeenschap Reigersbos	scholengemeenschap reigersbos	NL
+CB	Scholengemeenschap Spieringshoek	scholengemeenschap spieringshoek	NL
+CB	Scholengemeenschap Tabor	scholengemeenschap tabor	NL
+CB	Scholengemeenschap Were Di	scholengemeenschap were di	NL
+CB	Schoter Scholengemeenschap	schoter scholengemeenschap	NL
+CB	Schouten & Nelissen University	schouten & nelissen university	NL
+CB	Segbroek College	segbroek college	NL
+CB	Sint-Janslyceum	sint-janslyceum	NL
+M	Sintermeertencollege	sintermeertencollege	NL
+M	Sondervick College	sondervick college	NL
+CB	Sophianum	sophianum	NL
+CB	Spinozalyceum	spinozalyceum	NL
+CB	Sprengeloo	sprengeloo	NL
+CB	St. Bonifatiuscollege	st. bonifatiuscollege	NL
+40537311	St Stanislas College, Delft	sint stanislas college	NL
+CB	St.-Willibrord Gymnasium	st.-willibrord gymnasium	NL
+CB	Stanislascollege	stanislascollege	NL
+CB	Stedelijk College	stedelijk college	NL
+CB	Stedelijk College Eindhoven	stedelijk college eindhoven	NL
+CB	Stedelijk Gymnasium Arnhem	stedelijk gymnasium arnhem	NL
+CB	Stedelijk Gymnasium Breda	stedelijk gymnasium breda	NL
+CB	Stedelijk Gymnasium Nijmegen	stedelijk gymnasium nijmegen	NL
+CB	Stedelijk Gymnasium Schiedam	stedelijk gymnasium schiedam	NL
+CB	Stedelijke Scholengemeenschap Nijmegen	stedelijke scholengemeenschap nijmegen	NL
+M	Stella Maris College	stella maris college	NL
+CB	Stelle College	stelle college	NL
+M	Stenden Hogeschool	stenden hogeschool	NL
+CB	Stoas Hogeschool	stoas hogeschool	NL
+CB	Strabrecht College	strabrecht college	NL
+CB	Sweelinck College	sweelinck college	NL
+CB	Technisch College Velsen	technisch college velsen	NL
+CB	Technische Hogeschool Rijswijk	technische hogeschool rijswijk	NL
+CB	Technische Universiteit Delft	delft university of technology|technische universiteit delft	NL
+CB	Technische Universiteit Eindhoven	technische universiteit eindhoven	NL
+9179715	The Hague University of Applied Sciences	haagse hogeschool|hogeschool den haag|the hague university|den haag university|hague university	NL
+CB	The New School for Information Services	the new school for information services	NL
+CB	Theologische Universiteit Kampen	theologische universiteit kampen	NL
+CB	Theresialyceum	theresialyceum	NL
+CB	Thomas a Kempis College	thomas a kempis college	NL
+CB	Thorbecke Lyceum	thorbecke lyceum	NL
+CB	Thorbecke Scholengemeenschap	thorbecke scholengemeenschap	NL
+CB	TiasNimbas Business School	tiasnimbas business school	NL
+1070237	Tilburg University	catholic university of tilburg|universiteit van tilburg|tilburg university|uvt|university of tilburg|university tilburg	NL
+CB	Titus Brandsma Lyceum	titus brandsma lyceum	NL
+CB	Transnationale Universiteit Limburg	transnationale universiteit limburg	NL
+CB	Trevianum Scholengroep	trevianum scholengroep	NL
+CB	Twents Carmel College	twents carmel college	NL
+CB	Udens College	udens college	NL
+CB	Ulenhofcollege	ulenhofcollege	NL
+CB	UNESCO-IHE Institute for Water Education	unesco-ihe institute for water education	NL
+CB	Universiteit Leiden	universiteit leiden	NL
+CB	Universiteit Maastricht	universiteit maastricht	NL
+CB	Universiteit Twente	universiteit twente	NL
+CB	Universiteit Utrecht	universiteit utrecht	NL
+CB	Universiteit van Amsterdam	universiteit van amsterdam	NL
+CB	Universiteit van Tilburg	universiteit van tilburg	NL
+CB	Universiteit voor Humanistiek	universiteit voor humanistiek	NL
+M	University College Maastricht	university college maastricht	NL
+M	University College Utrecht	university college utrecht	NL
+546160	University of Amsterdam	amsterdam university|gemeente universiteit|the university of amsterdam|universiteit van amsterdam|university of amsterdam|amsterdam law school	NL
+15215618	University of Applied Sciences Leiden	leiden university of applied sciences|university of applied sciences leiden|hogeschool leiden	NL
+255460	University of Groningen	groningen university|rijksuniversiteit groningen|groningen state university|university of groningen|universiteit groningen|rijks universiteit groningen	NL
+101629	University of Twente	university of twente|universiteit twente|twente university|technische hogeschool twente	NL
+16967201	User System Interaction	user system interaction	NL
+32053	Utrecht University	utrecht universiteit|utrecht university|university utrecht|university of utrecht|universiteit van utrecht|universiteit utrecht|state university of utrecht	NL
+22267582	Utrecht University School of Economics	utrecht university school of economics|utrecht school of economics	NL
+CB	Utrechts Stedelijk Gymnasium	utrechts stedelijk gymnasium	NL
+CB	Valuascollege	valuascollege	NL
+CB	Van der Capellen Scholengemeenschap	van der capellen scholengemeenschap	NL
+CB	Van Hall Instituut	van hall instituut	NL
+CB	Van Maerlantlyceum	van maerlantlyceum	NL
+CB	Vechtdal College	vechtdal college	NL
+CB	Vellesan College	vellesan college	NL
+CB	Veluws College	veluws college	NL
+CB	Veurs Lyceum	veurs lyceum	NL
+CB	Visser 't Hooft Lyceum	visser 't hooft lyceum	NL
+CB	Vlietland College	vlietland college	NL
+CB	Vossius Gymnasium	vossius gymnasium	NL
+CB	Vrije Universiteit	vrije universiteit	NL
+324167	VU University Amsterdam	vrije universiteit|vu university|vrije universiteit, amsterdam|free university amsterdam|vrije universiteit amsterdam|vrije university|free university, amsterdam|vu university of amsterdam|free university of amsterdam|vu university amsterdam	NL
+CB	Wageningen Universiteit	wageningen universiteit	NL
+1229913	Wageningen University and Research Centre	wageningen university and research centre|wageningen ur|university of wageningen|wageningen university	NL
+CB	Walburg College	walburg college	NL
+CB	Walewyc	walewyc	NL
+CB	Wellant College	wellant college	NL
+CB	Werkmancollege	werkmancollege	NL
+CB	Wessel Gansfortcollege	wessel gansfortcollege	NL
+13804986	Willem de Kooning Academy	willem de kooning academie|willem de kooning academy	NL
+CB	Willem Lodewijk Gymnasium	willem lodewijk gymnasium	NL
+CB	Willem van Oranje College	willem van oranje college	NL
+1872453	Windesheim University of Applied Sciences	windesheim university of applied sciences|christelijke hogeschool windesheim	NL
+CB	Winkler Prins scholengemeenschap	winkler prins scholengemeenschap	NL
+23263593	Wittenborg University	wittenborg university	NL
+CB	X11	x11	NL
+CB	Zaanlands Lyceum	zaanlands lyceum	NL
+CB	Zandvlietcollege	zandvlietcollege	NL
+CB	Zeldenrust-SteelantCollege	zeldenrust-steelantcollege	NL
+CB	Zernike College	zernike college	NL
+CB	Zuiderlicht College	zuiderlicht college	NL
+4152007	Zuyd University of Applied Sciences	hogeschool zuyd|zuyd university|zuyd university of applied sciences	NL
+CB	Zuyderzee College	zuyderzee college	NL
+CB	Zwijsen College	zwijsen college	NL
