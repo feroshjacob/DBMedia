@@ -14,6 +14,7 @@ publishTo := Some(Resolver.file("file",  new File(Path.userHome.absolutePath+"/.
 libraryDependencies ++= Seq(
    "org.dbpedia.extraction" % "core" % "4.0-SNAPSHOT",
      "org.scalaj" %% "scalaj-http" % "1.1.0",
+      "org.scala-lang.modules" %% "scala-xml" % "1.0.2",
     "org.scalatest" %% "scalatest" % "2.2.1" % "test") 
 
 resolvers ++= Seq( 

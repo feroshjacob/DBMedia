@@ -1,8 +1,11 @@
 package com.recipegrace.dbmedia
 
 import scala.xml.XML
+import org.scalatest.FunSuite
 
-trait TestHelper {
+import org.scalatest.Matchers
+
+trait TestHelper extends FunSuite with Matchers {
   val wikiText1 = XML.loadString("""
       <mediawiki>
      <page> 

@@ -3,13 +3,12 @@ package com.recipegrace.dbmedia
 import scalaj.http.Http
 import java.net.URLEncoder
 import scalaj.http.HttpOptions
-import cb.wiki.helpers.CBInfoBoxParser._
-import cb.wiki.helpers.DBPediaHelper
+import com.recipegrace.dbmedia.CBInfoBoxParser._
 import org.scalatest.FunSuite
-import org.scalatest.matchers.ShouldMatchers
 
 
-class MediaWikiPropertyTest extends FunSuite with ShouldMatchers{
+
+class MediaWikiPropertyTest extends TestHelper{
 
 
   test("Infobox test clarkson university") {

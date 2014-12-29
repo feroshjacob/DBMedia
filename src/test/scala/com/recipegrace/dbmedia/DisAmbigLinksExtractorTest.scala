@@ -1,9 +1,9 @@
 package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
-import org.scalatest.matchers.ShouldMatchers
-import cb.wiki.helpers.DBPediaHelper._
-class DisAmbigLinksExtractorTest extends FunSuite with ShouldMatchers with TestHelper{
+
+import com.recipegrace.dbmedia.DBPediaHelper._
+class DisAmbigLinksExtractorTest extends  TestHelper{
   
 
     test("UAB disambig test ") {

@@ -1,10 +1,10 @@
 package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
-import org.scalatest.matchers.ShouldMatchers
-import cb.wiki.helpers.DBPediaHelper._
 
-class RedirectExtractorTest extends FunSuite with ShouldMatchers with TestHelper{
+import com.recipegrace.dbmedia.DBPediaHelper._
+
+class RedirectExtractorTest extends  TestHelper{
   
 
     test(" Valid Redirect test ") {

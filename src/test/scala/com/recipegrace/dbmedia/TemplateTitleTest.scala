@@ -2,9 +2,9 @@ package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
 import org.scalatest.Matchers
-import cb.wiki.helpers.DBPediaHelper._
+import com.recipegrace.dbmedia.DBPediaHelper._
 
-class TemplateTitleTest  extends FunSuite with Matchers with TestHelper{
+class TemplateTitleTest  extends  TestHelper{
   
 
   
