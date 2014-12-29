@@ -2,7 +2,7 @@ package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
 import org.scalatest.Matchers
-import com.recipegrace.dbmedia.CBInfoBoxParser._ 	
+import com.recipegrace.dbmedia.extractors.StandAloneIBExtractor._ 	
 import org.dbpedia.extraction.destinations.Quad
 
 class IBExtractorTest extends FunSuite with Matchers with TestHelper{

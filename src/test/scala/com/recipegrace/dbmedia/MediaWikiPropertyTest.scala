@@ -3,10 +3,10 @@ package com.recipegrace.dbmedia
 import scalaj.http.Http
 import java.net.URLEncoder
 import scalaj.http.HttpOptions
-import com.recipegrace.dbmedia.CBInfoBoxParser._
+import com.recipegrace.dbmedia.extractors.StandAloneExtractor._
 import org.scalatest.FunSuite
-
-
+ 
+ 
 
 class MediaWikiPropertyTest extends TestHelper{
 
@@ -15,9 +15,9 @@ class MediaWikiPropertyTest extends TestHelper{
 
     val title = "Clarkson University"
     val propertyAndVal = ("imageName","Clarkson-seal.png" )
-    val imageName = MediaWikiHelper. getPropertyInPage(title, propertyAndVal._1)
+    val imageName = StandaloneIBPropertyFetcher. getPropertyInPage(title, propertyAndVal._1)
     imageName.get should be equals(propertyAndVal._2)
-    val quads = MediaWikiHelper. getAllPropertiesInPage(title)
+    val quads = StandaloneIBPropertyFetcher. getAllPropertiesInPage(title)
     quads.get should contain(propertyAndVal)
     
   }

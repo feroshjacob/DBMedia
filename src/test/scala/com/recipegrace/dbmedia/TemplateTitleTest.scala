@@ -2,7 +2,7 @@ package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
 import org.scalatest.Matchers
-import com.recipegrace.dbmedia.DBPediaHelper._
+import com.recipegrace.dbmedia.extractors.StandAloneExtractor._
 
 class TemplateTitleTest  extends  TestHelper{
   

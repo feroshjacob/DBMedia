@@ -1,4 +1,4 @@
-package com.recipegrace.dbmedia
+package com.recipegrace.dbmedia.extractors
 
 import org.dbpedia.extraction.config.dataparser.DataParserConfig
 import org.dbpedia.extraction.config.mappings.InfoboxExtractorConfig
@@ -39,7 +39,7 @@ import scala.util.Try
  * 
  */
 
-object CBInfoBoxParser {
+object StandAloneIBExtractor {
   private val wikiCode = Language.English.wikiCode
 
    val   context = new  {

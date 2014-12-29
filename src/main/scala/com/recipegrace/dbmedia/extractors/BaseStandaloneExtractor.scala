@@ -1,4 +1,4 @@
-package com.recipegrace.dbmedia
+package com.recipegrace.dbmedia.extractors
 
 
 import org.dbpedia.extraction.wikiparser.WikiTitle
@@ -9,7 +9,7 @@ import org.dbpedia.extraction.wikiparser.Namespace
 import org.dbpedia.extraction.config.mappings.InfoboxExtractorConfig
 
 
-trait DBPediaUtils {
+trait BaseStandaloneExtractor {
     val ignoreTemplates = InfoboxExtractorConfig.ignoreTemplates
        val ignoreTemplatesRegex = InfoboxExtractorConfig.ignoreTemplatesRegex  
 

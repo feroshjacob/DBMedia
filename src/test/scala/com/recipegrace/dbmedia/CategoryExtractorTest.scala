@@ -2,7 +2,7 @@ package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
 
-import com.recipegrace.dbmedia.DBPediaHelper._
+import _root_.com.recipegrace.dbmedia.extractors.StandAloneExtractor._
 class CategoryExtractorTest extends TestHelper{
   
 
@@ -23,3 +23,4 @@ class CategoryExtractorTest extends TestHelper{
     }
 
 } 
+ 

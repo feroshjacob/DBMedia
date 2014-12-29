@@ -3,9 +3,10 @@ package com.recipegrace.dbmedia
 
 import org.dbpedia.extraction.destinations.Quad
 import scala.util.Try
-
-object MediaWikiHelper extends WikiFunctions {  
-
+import com.recipegrace.dbmedia.extractors.StandAloneExtractor
+ 
+object StandaloneIBPropertyFetcher extends WikiPediaRequester {  
+ 
   def getAllPropertiesInPage(wikiTitle: String) = { 
     val page = wikiTitleSearch(wikiTitle) 
     def quadParser(quads: Seq[Quad]) = {
@@ -16,7 +17,7 @@ object MediaWikiHelper extends WikiFunctions {
       })
         .filter(p => p._1 != "")
     }
-    DBPediaHelper.getIBProperties(page, quadParser _)
+    StandAloneExtractor.getIBProperties(page, quadParser _)
   }
   def getPropertyInPage(wikiTitle: String, property: String) = {
     val page = wikiTitleSearch(wikiTitle)
@@ -28,7 +29,7 @@ object MediaWikiHelper extends WikiFunctions {
       })
 
     }
-     DBPediaHelper.getIBProperties(page, quadParser _) 
+     StandAloneExtractor.getIBProperties(page, quadParser _) 
   }
 
 }

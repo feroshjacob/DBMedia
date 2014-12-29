@@ -1,29 +1,21 @@
-package com.recipegrace.dbmedia
+package com.recipegrace.dbmedia.extractors
 
 import org.dbpedia.extraction.wikiparser._
-import _root_.org.dbpedia.extraction.wikiparser.WikiParser
-import org.dbpedia.extraction.sources.{ FileSource, XMLSource }
-import org.dbpedia.extraction.destinations.{ Quad, DBpediaDatasets, Dataset }
-import org.dbpedia.extraction.destinations.formatters.TerseFormatter
-import org.dbpedia.extraction.ontology.io.OntologyReader
-import io.Source
+import org.dbpedia.extraction.sources.XMLSource
+import org.dbpedia.extraction.destinations.Quad
+import org.dbpedia.extraction.ontology.io.OntologyReader 
 import org.dbpedia.extraction.util.Language
-import java.io.{ FilenameFilter, File }
-import java.lang.IllegalStateException
 import scala.collection.mutable.ArrayBuffer
-import org.dbpedia.extraction.ontology.Ontology
-import scala.language.reflectiveCalls
 import org.dbpedia.extraction.mappings.InfoboxExtractor
 import org.dbpedia.extraction.mappings.Redirects
 import org.dbpedia.extraction.wikiparser.impl.simple.SimpleWikiParser
-import org.dbpedia.extraction.mappings.PageContext
+import org.dbpedia.extraction.mappings.PageContext 
 import scala.xml.Elem
 import org.dbpedia.extraction.sources.WikiPage
 import scala.xml.XML
-import scala.util.Try
-import org.dbpedia.extraction.destinations.QuadBuilder
 import org.dbpedia.extraction.config.mappings.DisambiguationExtractorConfig
-object DBPediaHelper extends DBPediaUtils {
+ 
+object StandAloneExtractor extends BaseStandaloneExtractor {
   val context = new {
     def ontology = {
       val in = getClass().getResourceAsStream("/ontology.xml");

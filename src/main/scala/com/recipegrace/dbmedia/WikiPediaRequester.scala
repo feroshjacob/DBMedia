@@ -4,9 +4,9 @@ import scalaj.http.Http
 import scala.xml.Elem
 import scalaj.http.HttpOptions
 import scala.xml.XML
-trait WikiFunctions {
+trait WikiPediaRequester {
 
-  private val params = Map(
+  private val params = Map( 
     "format" -> "xml",
     "action" -> "query",
     "prop" -> "revisions",

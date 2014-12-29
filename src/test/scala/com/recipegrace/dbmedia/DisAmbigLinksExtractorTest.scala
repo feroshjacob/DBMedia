@@ -2,7 +2,7 @@ package com.recipegrace.dbmedia
 
 import org.scalatest.FunSuite
 
-import com.recipegrace.dbmedia.DBPediaHelper._
+import com.recipegrace.dbmedia.extractors.StandAloneExtractor._
 class DisAmbigLinksExtractorTest extends  TestHelper{
   
 
